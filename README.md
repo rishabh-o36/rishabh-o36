@@ -60,15 +60,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishabh-o36/rishabh-o36/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
