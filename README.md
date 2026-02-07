@@ -1,64 +1,94 @@
-# Hi, I'm Rishabh Yadav 👋  
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rishabh+Yadav;Frontend+Developer;Learning+Backend+(MERN+Stack);Future+Full+Stack+Engineer+🚀" />
+</p>
 
-🎓 B.Tech CSE Student  
-💻 Frontend Developer | Learning Backend (MERN Stack)  
-🚀 Passionate about building scalable web applications  
+<h3 align="center">💻 Frontend Developer | 🌱 Learning MERN Stack</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Focused on modern frontend development with React
-- Currently learning Backend Development using MERN Stack
-- Strong foundation in Data Structures & Programming
-- Interested in building full-stack production-ready applications
+- 🎓 B.Tech CSE Student  
+- ⚛️ Frontend Developer (React.js)
+- 🌐 Learning Backend (Node.js, Express, MongoDB)
+- 💡 Strong in C++ & Java
+- 🚀 Building scalable web applications
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- C++
-- Java
-- JavaScript
-- HTML5
-- CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
+</p>
 
 ### ⚛️ Frontend
-- React.js
-- Responsive Web Design
-- Bootstrap
-- DOM Manipulation
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</p>
 
 ### 🌐 Backend (Learning)
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### 🔧 Tools & Platforms
-- VS Code
-- IntelliJ IDEA
-- PyCharm
-- Git & GitHub
-- Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,postman,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva" />
+</p>
 
 ---
 
-## 📌 Current Goals
+## 📊 GitHub Stats
 
-- Master Full-Stack Development (MERN)
-- Build and deploy scalable web apps
-- Strengthen backend architecture knowledge
-- Contribute to open-source projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-o36&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-o36&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rishabh-o36&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabh-o36/rishabh-o36/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: (add your link here)
+<p>
+  <a href="https://www.linkedin.com/in/rishabh-yadav-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Yadav-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://instagram.com/rishabh_o36">
+    <img src="https://img.shields.io/badge/Instagram-rishabh__o36-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="mailto:ry257541@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ry257541%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/Discord-rishabh076341-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
 ---
 
-“Consistency builds expertise.”
+<p align="center">
+  🚀 Building today to dominate tomorrow.
+</p>
