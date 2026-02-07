@@ -1,6 +1,6 @@
-<!-- Animated Typing Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rishabh+Yadav;Frontend+Developer;Learning+Backend+(MERN+Stack);Future+Full+Stack+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Rishabh+Yadav;Frontend+Developer;Learning+Backend+(MERN+Stack);Future+Full+Stack+Engineer+🚀" />
 </p>
 
 <h3 align="center">💻 Frontend Developer | 🌱 Learning MERN Stack</h3>
@@ -11,9 +11,9 @@
 
 - 🎓 B.Tech CSE Student  
 - ⚛️ Frontend Developer (React.js)
-- 🌐 Learning Backend (Node.js, Express, MongoDB)
-- 💡 Strong in C++ & Java
-- 🚀 Building scalable web applications
+- 🌐 Currently learning Backend (Node.js, Express, MongoDB)
+- 💡 Strong foundation in C++ & Java
+- 🚀 Focused on building scalable and responsive web applications
 
 ---
 
@@ -48,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-o36&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-o36&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-o36&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-o36&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -72,23 +72,23 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/rishabh-yadav-dev/">
+  <a href="https://www.linkedin.com/in/rishabh-yadav-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Yadav-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
-  <a href="https://instagram.com/rishabh_o36">
+
+  <a href="https://instagram.com/rishabh_o36" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-rishabh__o36-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
+
   <a href="mailto:ry257541@gmail.com">
     <img src="https://img.shields.io/badge/Email-ry257541%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+
   <img src="https://img.shields.io/badge/Discord-rishabh076341-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 Building today to dominate tomorrow.
+  🚀 Building today to lead tomorrow.
 </p>
