@@ -59,7 +59,7 @@
   <img src="https://streak-stats.demolab.com?user=rishabh-o36&theme=tokyonight" />
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/rishabh-o36/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rishabh-o36/rishabh-o36/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 📫 Connect With Me
